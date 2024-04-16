@@ -1,0 +1,331 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\timob\\source\\repos\\MySpace1.0\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4C90BC58-F469-43ED-BC3C-ECB52167868B}|MySpace1.0\\MySpace1.0.csproj|c:\\users\\timob\\source\\repos\\myspace1.0\\myspace1.0\\eventform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C90BC58-F469-43ED-BC3C-ECB52167868B}|MySpace1.0\\MySpace1.0.csproj|solutionrelative:myspace1.0\\eventform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C90BC58-F469-43ED-BC3C-ECB52167868B}|MySpace1.0\\MySpace1.0.csproj|c:\\users\\timob\\source\\repos\\myspace1.0\\myspace1.0\\eventform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4C90BC58-F469-43ED-BC3C-ECB52167868B}|MySpace1.0\\MySpace1.0.csproj|solutionrelative:myspace1.0\\eventform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C90BC58-F469-43ED-BC3C-ECB52167868B}|MySpace1.0\\MySpace1.0.csproj|c:\\users\\timob\\source\\repos\\myspace1.0\\myspace1.0\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4C90BC58-F469-43ED-BC3C-ECB52167868B}|MySpace1.0\\MySpace1.0.csproj|solutionrelative:myspace1.0\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C90BC58-F469-43ED-BC3C-ECB52167868B}|MySpace1.0\\MySpace1.0.csproj|c:\\users\\timob\\source\\repos\\myspace1.0\\myspace1.0\\frmdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C90BC58-F469-43ED-BC3C-ECB52167868B}|MySpace1.0\\MySpace1.0.csproj|solutionrelative:myspace1.0\\frmdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C90BC58-F469-43ED-BC3C-ECB52167868B}|MySpace1.0\\MySpace1.0.csproj|c:\\users\\timob\\source\\repos\\myspace1.0\\myspace1.0\\frmdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4C90BC58-F469-43ED-BC3C-ECB52167868B}|MySpace1.0\\MySpace1.0.csproj|solutionrelative:myspace1.0\\frmdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C90BC58-F469-43ED-BC3C-ECB52167868B}|MySpace1.0\\MySpace1.0.csproj|c:\\users\\timob\\source\\repos\\myspace1.0\\myspace1.0\\frmeventbearbeiten.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4C90BC58-F469-43ED-BC3C-ECB52167868B}|MySpace1.0\\MySpace1.0.csproj|solutionrelative:myspace1.0\\frmeventbearbeiten.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C90BC58-F469-43ED-BC3C-ECB52167868B}|MySpace1.0\\MySpace1.0.csproj|c:\\users\\timob\\source\\repos\\myspace1.0\\myspace1.0\\frmeventssehen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C90BC58-F469-43ED-BC3C-ECB52167868B}|MySpace1.0\\MySpace1.0.csproj|solutionrelative:myspace1.0\\frmeventssehen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C90BC58-F469-43ED-BC3C-ECB52167868B}|MySpace1.0\\MySpace1.0.csproj|c:\\users\\timob\\source\\repos\\myspace1.0\\myspace1.0\\frmeventssehen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4C90BC58-F469-43ED-BC3C-ECB52167868B}|MySpace1.0\\MySpace1.0.csproj|solutionrelative:myspace1.0\\frmeventssehen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C90BC58-F469-43ED-BC3C-ECB52167868B}|MySpace1.0\\MySpace1.0.csproj|c:\\users\\timob\\source\\repos\\myspace1.0\\myspace1.0\\frmkalender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4C90BC58-F469-43ED-BC3C-ECB52167868B}|MySpace1.0\\MySpace1.0.csproj|solutionrelative:myspace1.0\\frmkalender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C90BC58-F469-43ED-BC3C-ECB52167868B}|MySpace1.0\\MySpace1.0.csproj|c:\\users\\timob\\source\\repos\\myspace1.0\\myspace1.0\\frmtodo-liste.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C90BC58-F469-43ED-BC3C-ECB52167868B}|MySpace1.0\\MySpace1.0.csproj|solutionrelative:myspace1.0\\frmtodo-liste.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C90BC58-F469-43ED-BC3C-ECB52167868B}|MySpace1.0\\MySpace1.0.csproj|c:\\users\\timob\\source\\repos\\myspace1.0\\myspace1.0\\frmtodo-liste.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4C90BC58-F469-43ED-BC3C-ECB52167868B}|MySpace1.0\\MySpace1.0.csproj|solutionrelative:myspace1.0\\frmtodo-liste.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C90BC58-F469-43ED-BC3C-ECB52167868B}|MySpace1.0\\MySpace1.0.csproj|c:\\users\\timob\\source\\repos\\myspace1.0\\myspace1.0\\registerpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C90BC58-F469-43ED-BC3C-ECB52167868B}|MySpace1.0\\MySpace1.0.csproj|solutionrelative:myspace1.0\\registerpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C90BC58-F469-43ED-BC3C-ECB52167868B}|MySpace1.0\\MySpace1.0.csproj|c:\\users\\timob\\source\\repos\\myspace1.0\\myspace1.0\\registerpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4C90BC58-F469-43ED-BC3C-ECB52167868B}|MySpace1.0\\MySpace1.0.csproj|solutionrelative:myspace1.0\\registerpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C90BC58-F469-43ED-BC3C-ECB52167868B}|MySpace1.0\\MySpace1.0.csproj|c:\\users\\timob\\source\\repos\\myspace1.0\\myspace1.0\\usercontrolblank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4C90BC58-F469-43ED-BC3C-ECB52167868B}|MySpace1.0\\MySpace1.0.csproj|solutionrelative:myspace1.0\\usercontrolblank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C90BC58-F469-43ED-BC3C-ECB52167868B}|MySpace1.0\\MySpace1.0.csproj|c:\\users\\timob\\source\\repos\\myspace1.0\\myspace1.0\\usercontroldays.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4C90BC58-F469-43ED-BC3C-ECB52167868B}|MySpace1.0\\MySpace1.0.csproj|solutionrelative:myspace1.0\\usercontroldays.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C90BC58-F469-43ED-BC3C-ECB52167868B}|MySpace1.0\\MySpace1.0.csproj|c:\\users\\timob\\source\\repos\\myspace1.0\\myspace1.0\\usercontroleventstermin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4C90BC58-F469-43ED-BC3C-ECB52167868B}|MySpace1.0\\MySpace1.0.csproj|solutionrelative:myspace1.0\\usercontroleventstermin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C90BC58-F469-43ED-BC3C-ECB52167868B}|MySpace1.0\\MySpace1.0.csproj|c:\\users\\timob\\source\\repos\\myspace1.0\\myspace1.0\\usercontrolheutigetermine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C90BC58-F469-43ED-BC3C-ECB52167868B}|MySpace1.0\\MySpace1.0.csproj|solutionrelative:myspace1.0\\usercontrolheutigetermine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C90BC58-F469-43ED-BC3C-ECB52167868B}|MySpace1.0\\MySpace1.0.csproj|c:\\users\\timob\\source\\repos\\myspace1.0\\myspace1.0\\usercontrolheutigetermine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4C90BC58-F469-43ED-BC3C-ECB52167868B}|MySpace1.0\\MySpace1.0.csproj|solutionrelative:myspace1.0\\usercontrolheutigetermine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C90BC58-F469-43ED-BC3C-ECB52167868B}|MySpace1.0\\MySpace1.0.csproj|c:\\users\\timob\\source\\repos\\myspace1.0\\myspace1.0\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C90BC58-F469-43ED-BC3C-ECB52167868B}|MySpace1.0\\MySpace1.0.csproj|solutionrelative:myspace1.0\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EventForm.cs",
+              "DocumentMoniker": "C:\\Users\\timob\\source\\repos\\MySpace1.0\\MySpace1.0\\EventForm.cs",
+              "RelativeDocumentMoniker": "MySpace1.0\\EventForm.cs",
+              "ToolTip": "C:\\Users\\timob\\source\\repos\\MySpace1.0\\MySpace1.0\\EventForm.cs",
+              "RelativeToolTip": "MySpace1.0\\EventForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD4AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T16:08:07.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EventForm.cs [Entwurf]",
+              "DocumentMoniker": "C:\\Users\\timob\\source\\repos\\MySpace1.0\\MySpace1.0\\EventForm.cs",
+              "RelativeDocumentMoniker": "MySpace1.0\\EventForm.cs",
+              "ToolTip": "C:\\Users\\timob\\source\\repos\\MySpace1.0\\MySpace1.0\\EventForm.cs [Entwurf]",
+              "RelativeToolTip": "MySpace1.0\\EventForm.cs [Entwurf]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T16:08:05.644Z",
+              "EditorCaption": " [Entwurf]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Entwurf]",
+              "DocumentMoniker": "C:\\Users\\timob\\source\\repos\\MySpace1.0\\MySpace1.0\\Form1.cs",
+              "RelativeDocumentMoniker": "MySpace1.0\\Form1.cs",
+              "ToolTip": "C:\\Users\\timob\\source\\repos\\MySpace1.0\\MySpace1.0\\Form1.cs [Entwurf]*",
+              "RelativeToolTip": "MySpace1.0\\Form1.cs [Entwurf]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T16:08:03.347Z",
+              "EditorCaption": " [Entwurf]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmDashboard.cs",
+              "DocumentMoniker": "C:\\Users\\timob\\source\\repos\\MySpace1.0\\MySpace1.0\\frmDashboard.cs",
+              "RelativeDocumentMoniker": "MySpace1.0\\frmDashboard.cs",
+              "ToolTip": "C:\\Users\\timob\\source\\repos\\MySpace1.0\\MySpace1.0\\frmDashboard.cs",
+              "RelativeToolTip": "MySpace1.0\\frmDashboard.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T16:07:58.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmDashboard.cs [Entwurf]",
+              "DocumentMoniker": "C:\\Users\\timob\\source\\repos\\MySpace1.0\\MySpace1.0\\frmDashboard.cs",
+              "RelativeDocumentMoniker": "MySpace1.0\\frmDashboard.cs",
+              "ToolTip": "C:\\Users\\timob\\source\\repos\\MySpace1.0\\MySpace1.0\\frmDashboard.cs [Entwurf]",
+              "RelativeToolTip": "MySpace1.0\\frmDashboard.cs [Entwurf]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T16:07:56.835Z",
+              "EditorCaption": " [Entwurf]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmEventBearbeiten.cs [Entwurf]",
+              "DocumentMoniker": "C:\\Users\\timob\\source\\repos\\MySpace1.0\\MySpace1.0\\frmEventBearbeiten.cs",
+              "RelativeDocumentMoniker": "MySpace1.0\\frmEventBearbeiten.cs",
+              "ToolTip": "C:\\Users\\timob\\source\\repos\\MySpace1.0\\MySpace1.0\\frmEventBearbeiten.cs [Entwurf]",
+              "RelativeToolTip": "MySpace1.0\\frmEventBearbeiten.cs [Entwurf]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T16:07:55.227Z",
+              "EditorCaption": " [Entwurf]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmEventssehen.cs",
+              "DocumentMoniker": "C:\\Users\\timob\\source\\repos\\MySpace1.0\\MySpace1.0\\frmEventssehen.cs",
+              "RelativeDocumentMoniker": "MySpace1.0\\frmEventssehen.cs",
+              "ToolTip": "C:\\Users\\timob\\source\\repos\\MySpace1.0\\MySpace1.0\\frmEventssehen.cs",
+              "RelativeToolTip": "MySpace1.0\\frmEventssehen.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T16:07:40.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmEventssehen.cs [Entwurf]",
+              "DocumentMoniker": "C:\\Users\\timob\\source\\repos\\MySpace1.0\\MySpace1.0\\frmEventssehen.cs",
+              "RelativeDocumentMoniker": "MySpace1.0\\frmEventssehen.cs",
+              "ToolTip": "C:\\Users\\timob\\source\\repos\\MySpace1.0\\MySpace1.0\\frmEventssehen.cs [Entwurf]",
+              "RelativeToolTip": "MySpace1.0\\frmEventssehen.cs [Entwurf]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T16:07:37.914Z",
+              "EditorCaption": " [Entwurf]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "frmToDo-Liste.cs",
+              "DocumentMoniker": "C:\\Users\\timob\\source\\repos\\MySpace1.0\\MySpace1.0\\frmToDo-Liste.cs",
+              "RelativeDocumentMoniker": "MySpace1.0\\frmToDo-Liste.cs",
+              "ToolTip": "C:\\Users\\timob\\source\\repos\\MySpace1.0\\MySpace1.0\\frmToDo-Liste.cs",
+              "RelativeToolTip": "MySpace1.0\\frmToDo-Liste.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T16:07:30.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "frmToDo-Liste.cs [Entwurf]",
+              "DocumentMoniker": "C:\\Users\\timob\\source\\repos\\MySpace1.0\\MySpace1.0\\frmToDo-Liste.cs",
+              "RelativeDocumentMoniker": "MySpace1.0\\frmToDo-Liste.cs",
+              "ToolTip": "C:\\Users\\timob\\source\\repos\\MySpace1.0\\MySpace1.0\\frmToDo-Liste.cs [Entwurf]",
+              "RelativeToolTip": "MySpace1.0\\frmToDo-Liste.cs [Entwurf]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T16:07:29.21Z",
+              "EditorCaption": " [Entwurf]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Registerpage.cs",
+              "DocumentMoniker": "C:\\Users\\timob\\source\\repos\\MySpace1.0\\MySpace1.0\\Registerpage.cs",
+              "RelativeDocumentMoniker": "MySpace1.0\\Registerpage.cs",
+              "ToolTip": "C:\\Users\\timob\\source\\repos\\MySpace1.0\\MySpace1.0\\Registerpage.cs",
+              "RelativeToolTip": "MySpace1.0\\Registerpage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T16:07:20.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Registerpage.cs [Entwurf]",
+              "DocumentMoniker": "C:\\Users\\timob\\source\\repos\\MySpace1.0\\MySpace1.0\\Registerpage.cs",
+              "RelativeDocumentMoniker": "MySpace1.0\\Registerpage.cs",
+              "ToolTip": "C:\\Users\\timob\\source\\repos\\MySpace1.0\\MySpace1.0\\Registerpage.cs [Entwurf]",
+              "RelativeToolTip": "MySpace1.0\\Registerpage.cs [Entwurf]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T16:07:18.751Z",
+              "EditorCaption": " [Entwurf]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserControlBlank.cs [Entwurf]",
+              "DocumentMoniker": "C:\\Users\\timob\\source\\repos\\MySpace1.0\\MySpace1.0\\UserControlBlank.cs",
+              "RelativeDocumentMoniker": "MySpace1.0\\UserControlBlank.cs",
+              "ToolTip": "C:\\Users\\timob\\source\\repos\\MySpace1.0\\MySpace1.0\\UserControlBlank.cs [Entwurf]",
+              "RelativeToolTip": "MySpace1.0\\UserControlBlank.cs [Entwurf]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T16:07:17.063Z",
+              "EditorCaption": " [Entwurf]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frmKalender.cs [Entwurf]",
+              "DocumentMoniker": "C:\\Users\\timob\\source\\repos\\MySpace1.0\\MySpace1.0\\frmKalender.cs",
+              "RelativeDocumentMoniker": "MySpace1.0\\frmKalender.cs",
+              "ToolTip": "C:\\Users\\timob\\source\\repos\\MySpace1.0\\MySpace1.0\\frmKalender.cs [Entwurf]",
+              "RelativeToolTip": "MySpace1.0\\frmKalender.cs [Entwurf]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T16:01:03.514Z",
+              "EditorCaption": " [Entwurf]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UserControlheutigeTermine.cs",
+              "DocumentMoniker": "C:\\Users\\timob\\source\\repos\\MySpace1.0\\MySpace1.0\\UserControlheutigeTermine.cs",
+              "RelativeDocumentMoniker": "MySpace1.0\\UserControlheutigeTermine.cs",
+              "ToolTip": "C:\\Users\\timob\\source\\repos\\MySpace1.0\\MySpace1.0\\UserControlheutigeTermine.cs",
+              "RelativeToolTip": "MySpace1.0\\UserControlheutigeTermine.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T16:05:50.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UserControlheutigeTermine.cs [Entwurf]",
+              "DocumentMoniker": "C:\\Users\\timob\\source\\repos\\MySpace1.0\\MySpace1.0\\UserControlheutigeTermine.cs",
+              "RelativeDocumentMoniker": "MySpace1.0\\UserControlheutigeTermine.cs",
+              "ToolTip": "C:\\Users\\timob\\source\\repos\\MySpace1.0\\MySpace1.0\\UserControlheutigeTermine.cs [Entwurf]",
+              "RelativeToolTip": "MySpace1.0\\UserControlheutigeTermine.cs [Entwurf]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T16:05:48.843Z",
+              "EditorCaption": " [Entwurf]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UserControlEventsTermin.cs [Entwurf]",
+              "DocumentMoniker": "C:\\Users\\timob\\source\\repos\\MySpace1.0\\MySpace1.0\\UserControlEventsTermin.cs",
+              "RelativeDocumentMoniker": "MySpace1.0\\UserControlEventsTermin.cs",
+              "ToolTip": "C:\\Users\\timob\\source\\repos\\MySpace1.0\\MySpace1.0\\UserControlEventsTermin.cs [Entwurf]",
+              "RelativeToolTip": "MySpace1.0\\UserControlEventsTermin.cs [Entwurf]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T16:04:22.015Z",
+              "EditorCaption": " [Entwurf]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UserControlDays.cs [Entwurf]",
+              "DocumentMoniker": "C:\\Users\\timob\\source\\repos\\MySpace1.0\\MySpace1.0\\UserControlDays.cs",
+              "RelativeDocumentMoniker": "MySpace1.0\\UserControlDays.cs",
+              "ToolTip": "C:\\Users\\timob\\source\\repos\\MySpace1.0\\MySpace1.0\\UserControlDays.cs [Entwurf]",
+              "RelativeToolTip": "MySpace1.0\\UserControlDays.cs [Entwurf]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T16:01:51.764Z",
+              "EditorCaption": " [Entwurf]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\timob\\source\\repos\\MySpace1.0\\MySpace1.0\\Form1.cs",
+              "RelativeDocumentMoniker": "MySpace1.0\\Form1.cs",
+              "ToolTip": "C:\\Users\\timob\\source\\repos\\MySpace1.0\\MySpace1.0\\Form1.cs*",
+              "RelativeToolTip": "MySpace1.0\\Form1.cs*",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAmwGIAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T15:37:45.935Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
